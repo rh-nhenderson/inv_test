@@ -12,6 +12,8 @@
 # freeipaserver : the FQDN of the FreeIPA/RHIdM server
 # freeipauser : an unprivileged user account for connecting to the API
 # freeipapassword : password for freeipauser
+# changes to verify a commit
+
 
 # This script uses the FreeIPA API to create an Ansible dynamic directory
 from python_freeipa import Client
